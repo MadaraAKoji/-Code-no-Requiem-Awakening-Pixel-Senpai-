@@ -6,8 +6,9 @@ A beginners website about Anime and TV shows and books and also my favorite thin
     <title> "Code no Requiem Awakening Pixel Senpai" </title>
     <body>
       <p>
-        Hello my name is <i>MadraAKoji</i> and I am a beginner <strong>HTML programer</strong>. This a <u>simple website</u> about <strong>anime</strong> and <strong>books</strong><br>. Also includes interesting skills I have except for coding.
+        Hello my name is <i>MadraAKoji</i> and I am a beginner <strong>HTML programer</strong>. This a <u>simple website</u> about <strong>anime</strong> and <strong>books</strong>.<br> Also includes interesting skills I have except for coding.
       </p>
     </body>
   </head>
 </html>
+bye see you next time
