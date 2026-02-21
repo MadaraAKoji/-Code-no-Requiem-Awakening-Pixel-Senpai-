@@ -3,12 +3,12 @@ A beginners website about Anime and TV shows and books and also my favorite thin
 <!DOCTYPE html>
 <html>
   <head>
-    <title>"Code no Requiem Awakening Pixel Senpai"</title>
+    <h3>"Code no Requiem Awakening Pixel Senpai"</h3>
     <body>
       <p>
-        Hello my name is <i>MadraAKoji</i> and I am a beginner <strong>HTML programer</strong>. This a <u>simple website</u> about <strong>anime</strong> and <strong>books</strong>.<br> Also includes interesting skills I have except for coding.
+        Hello my name is <i>MadraAKoji</i> and I am a beginner <strong>HTML programer</strong> and have a big passion for learning new things especially <strong>coding</strong>.<br> This a <u>simple website</u> about <strong>anime</strong> and <strong>books</strong>.<br> Also includes interesting skills I have except for coding.
       </p>
     </body>
   </head>
 </html>
-bye see you next time
+
