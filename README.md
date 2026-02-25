@@ -1,8 +1,13 @@
 # "Code-no-Requiem: Awakening-Pixel-Senpai"
-A beginners website about Anime and TV shows and books and also my favorite things I like to do. Includes also skills I can do. 
+A beginners website about Anime and TV shows and books and also my favorite things I like to do. Includes also skills I have. 
 <!DOCTYPE html>
 <html>
   <head>
+    <style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
     <h3>"Code no Requiem Awakening Pixel Senpai"</h3>
     <body>
       <p>
